@@ -1,0 +1,38 @@
+{
+  "name": "111",
+  "version": "222",
+  "main": "dist/index.js",
+  "scripts": {
+    "initConfig": "node init.js",
+    "generate": "npx nit-iconfont-h5",
+    "build": "rollup -c ./rollup.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.10.0",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-proposal-decorators": "^7.10.0",
+    "@babel/plugin-syntax-jsx": "^7.8.3",
+    "@babel/plugin-transform-react-jsx": "^7.9.4",
+    "@babel/plugin-transform-runtime": "7.1.0",
+    "@babel/preset-env": "^7.10.0",
+    "@babel/preset-react": "^7.10.0",
+    "@babel/runtime": "7.1.2",
+    "@rollup/plugin-node-resolve": "^8.0.0",
+    "colors": "^1.4.0",
+    "inquirer": "^7.1.0",
+    "jsonfile": "^6.0.1",
+    "nit-iconfont-cli": "^1.0.0",
+    "rollup": "^2.10.9",
+    "rollup-plugin-ascii": "^0.0.3",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-includepaths": "^0.2.3",
+    "rollup-plugin-less": "^1.1.2",
+    "rollup-plugin-postcss": "^3.1.1",
+    "rollup-plugin-terser": "^6.1.0"
+  }
+}

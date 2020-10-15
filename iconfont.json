@@ -1,0 +1,8 @@
+{
+  "symbol_url": "111",
+  "use_typescript": false,
+  "save_dir": "./src",
+  "trim_icon_prefix": "icon",
+  "unit": "px",
+  "default_icon_size": 18
+}
