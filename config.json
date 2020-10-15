@@ -1,9 +1,1 @@
-{
-    "package": {
-        "name": "",
-        "version": ""
-    },
-    "iconfont": {
-        "symbol_url": ""
-    }
-}
+{"package":{"name":"test-iconfont","version":"0.0.1"},"iconfont":{"symbol_url":"<symbol id='三角形-上' viewBox='0 0 1024 1024' ><path d=' M256,448 L386,448 L386,450 L386,448 L768,448 L512,704'></path></symbol>"}}
